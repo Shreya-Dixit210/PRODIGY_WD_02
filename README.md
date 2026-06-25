@@ -4,7 +4,7 @@ A responsive stopwatch web application built using HTML5, CSS3 and Vanilla JavaS
 
 🔗 Live Demo
 
-Add your live link here once deployed (e.g. via GitHub Pages)
+https://shreya-dixit210.github.io/PRODIGY_WD_02/
 
 📌 Project Overview
 
@@ -12,22 +12,22 @@ The Stopwatch Web App is a front-end project that demonstrates how real-world ti
 
 ✨ Features
 
-Start / Pause / Resume timer with a single button
-Reset button to instantly clear the timer and all recorded laps
-Lap tracking — record split times while the stopwatch is running
-Lap delta — see the time difference between consecutive laps
-Best / worst lap highlight — fastest lap in green, slowest in red
-Smooth & accurate timing using requestAnimationFrame
-Clean, minimalist circular clock-face design
-Mobile responsive layout
-Beginner-friendly and well-structured code
+* Start / Pause / Resume timer with a single button
+* Reset button to instantly clear the timer and all recorded laps
+* Lap tracking — record split times while the stopwatch is running
+* Lap delta — see the time difference between consecutive laps
+* Best / worst lap highlight — fastest lap in green, slowest in red
+* Smooth & accurate timing using requestAnimationFrame
+* Clean, minimalist circular clock-face design
+* Mobile responsive layout
+* Beginner-friendly and well-structured code
 
 
 🛠️ Tech Stack
 
-HTML5
-CSS3
-Vanilla JavaScript
+* HTML5
+* CSS3
+* Vanilla JavaScript
 
 
 
