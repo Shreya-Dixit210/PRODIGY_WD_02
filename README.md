@@ -33,4 +33,4 @@ The Stopwatch Web App is a front-end project that demonstrates how real-world ti
 
 
 
-Click Start to begin timing.
+
